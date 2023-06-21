@@ -1,0 +1,7 @@
+{
+  "name": "carta-digital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
